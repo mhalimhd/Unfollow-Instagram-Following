@@ -109,14 +109,9 @@ If unfollow buttons aren't clicked:
 This tool is not affiliated with Instagram or Meta. Use responsibly according to Instagram's Terms of Service. Automated unfollowing may violate Instagram's policies and could result in account restrictions.
 
 
-WhatsApp: +961 81 145 410
-Instagram: @mhalimhd
-TikTok: @mhalimhd
-Website: mhalimhd-2025.web.app
+## 🚀 Connect With Me!
 
-
-           _           _ _           _         _
- _ __ ___ | |__   __ _| (_)_ __ ___ | |__   __| |
-| '_ ` _ \| '_ \ / _` | | | '_ ` _ \| '_ \ / _` |
-| | | | | | | | | (_| | | | | | | | | | | | (_| |
-|_| |_| |_|_| |_|\__,_|_|_|_| |_| |_|_| |_|\__,_|
+| Platform | Handle/Link |
+| :--- | :--- |
+| **WhatsApp** | `+961 81 145 410` |
+| **Website** | [![Website](https://img.shields.io/badge/My_Website-Visit%20Now-29B6F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mhalimhd-2025.web.app) |

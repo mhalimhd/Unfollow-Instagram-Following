@@ -114,4 +114,4 @@ This tool is not affiliated with Instagram or Meta. Use responsibly according to
 | Platform | Handle/Link |
 | :--- | :--- |
 | **WhatsApp** | `+961 81 145 410` |
-| **Website** | [![Website](https://img.shields.io/badge/My_Website-Visit%20Now-29B6F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mhalimhd-2025.web.app) |
+| **Website** | [![mhalimhd](https://img.shields.io/badge/My_Website-Visit%20Now-29B6F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mhalimhd-2025.web.app) |

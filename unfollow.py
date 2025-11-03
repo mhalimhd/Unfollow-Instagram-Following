@@ -197,6 +197,7 @@ class SimpleInstagramUnfollower:
             print(f"\nSuccessfully processed {unfollowed} accounts")
         except Exception as e:
             print(f"Error in unfollow process: {e}")
+            print("Please contact mhalimhd on WhatsApp at +961 81 145 410 for assistance")
             import traceback
             traceback.print_exc()
 
@@ -205,8 +206,8 @@ class SimpleInstagramUnfollower:
             self.driver.quit()
 
 def main():
-    print("Simple Instagram Unfollower")
-    print("=" * 30)
+    print("Simple Instagram Unfollower by mhalimhd")
+    print("=" * 40)
     
     unfollower = SimpleInstagramUnfollower()
     unfollower.setup_driver()
@@ -249,11 +250,13 @@ def main():
         print("\nProcess interrupted")
     except Exception as e:
         print(f"Error: {e}")
+        print("Please contact mhalimhd on WhatsApp at +961 81 145 410 for assistance")
         import traceback
         traceback.print_exc()
     finally:
         unfollower.close()
-        print("Browser closed")
+        print("\nBrowser closed")
+        print("Developed by mhalimhd - Contact on WhatsApp: +961 81 145 410")
 
 if __name__ == "__main__":
     main()
